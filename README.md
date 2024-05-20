@@ -136,3 +136,26 @@ They are an important part of the insights capabilities in Power BI. When Power 
 
 **Get insights on reports and visuals**
 
+Types of Insights:
+
+Anomalies: Identify unexpected data points that deviate significantly from the expected range. 
+
+These can be helpful for investigating potential issues or outliers.
+
+Subtypes: Significant anomaly, Recent anomaly, Anomaly summary.
+
+Explanations: Power BI suggests possible reasons for the anomaly by analyzing related dimensions in your data model.
+
+Trends: Detect patterns of increase or decrease over time in your data. Power BI removes noise and seasonality to focus on meaningful trends.
+
+Subtypes: Long trend, Steep trend, Recent trend, Trend reversal.
+
+Explanations: Power BI identifies categories that most significantly influence the trend.
+
+KPI Analysis: Evaluates how a current value compares to a defined target (if available) or to other data segments (if no target is set).
+
+Target vs No Target: Analysis considers variance from the target or the absolute value itself.
+
+Explanations: Power BI highlights categories with higher or lower than expected values. Ranking is based on Z-scores for target vs non-target scenarios.
+
+Overall, these insights in Power BI can be valuable tools for uncovering hidden patterns, identifying potential problems, and gaining a deeper understanding of your data.
