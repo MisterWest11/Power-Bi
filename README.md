@@ -86,3 +86,27 @@ Healthy Data Culture: Shared models promote data accessibility and understanding
 Consuming Shared Models: Power BI makes it easy to utilize these shared semantic models when building reports.
 
 In essence, standardized semantic models act as a foundation for consistent, collaborative, and efficient BI practices in your organization.
+
+# Describe cleaning and transforming data in Power BI Desktop
+
+Data from different sources often requires cleaning and transformation: Data from various systems might not be compatible or structured for combined analysis.
+
+Example scenario: Building a device usage report requires customer details (CRM) and IoT data (Azure IoT Hub).
+
+Power BI Desktop as a tool for data transformation: This application helps you prepare the data for visualization.
+
+You've also introduced the three main views in Power BI Desktop:
+
+Report view: For building visualizations and arranging them for presentations.
+
+Data view: Shows the data structure, allowing for measure creation, new columns, and relationship management.
+
+Model view: Provides a visual representation of data model relationships, enabling management and modification.
+
+Data transformation: Making data usable for reports by removing columns, duplicating them, or replacing values.
+
+Clean data for better visualizations: Power BI prefers columnar data, and cleaning helps transform messy formats (like spreadsheets with multi-span headers) into a more suitable structure.
+
+Power Query tools for data preparation: This built-in toolset helps you clean and format data before using it in reports.
+
+The provided reference seems like a valuable resource for further learning on data transformation in Power BI: "Transform, shape, and model data in Power BI".
