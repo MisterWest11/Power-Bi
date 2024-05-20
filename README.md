@@ -110,3 +110,29 @@ Clean data for better visualizations: Power BI prefers columnar data, and cleani
 Power Query tools for data preparation: This built-in toolset helps you clean and format data before using it in reports.
 
 The provided reference seems like a valuable resource for further learning on data transformation in Power BI: "Transform, shape, and model data in Power BI".
+
+# Describe using AI Insights to spots trends and anomalies
+
+Power BI's insights feature helps organizations easily identify insights such as anomalies and trends in your data as you interact and consume elements such as reports, dashboards and visualizations.
+
+![image](https://github.com/MisterWest11/Power-Bi/assets/152319557/4c76f559-b979-43af-a9ba-80eb8116505c)
+
+Power BI has multiple insights features that use AI:
+
+  * Insights for reports: Analyze data and finds anomalies and trends in your data as you interact with reports.
+
+  * Insights for individual visuals: Analyzes and explains the fluctuations of data points in visuals.
+
+  * Insights for dashboard tiles: Looks at the data being used to render that tile and presents them in interactive visuals.
+
+  * Quick insights for datasets: Automatically generate data insights on a datasets in the Power BI services.
+
+  * AI insights for data models in Power Query: Provide access to pretrained machine learning models from Azure Cognitive Services.
+
+
+*Notifications*
+
+They are an important part of the insights capabilities in Power BI. When Power BI identifies insights, presented with a notification. Notifications are a great way to proactively interact with suggested insights to ensure that you're not missing anything important such as sales in a specific region increased. 
+
+**Get insights on reports and visuals**
+
