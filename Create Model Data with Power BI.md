@@ -44,4 +44,12 @@ Authors add visuals (like charts) and other elements (text boxes, buttons) to re
 
 Visuals are linked to data in the semantic model by mapping fields to specific parts of the visual (e.g., Y-axis, X-axis in a chart).
 
-Mapped fields can be renamed, summarized (calculate total, count etc.) and formatted (change colors, add labels etc.).
+Mapped fields can be renamed, summarized (calculate total, count etc.) and formatted (change colors, add labels etc.)
+
+# Check my Knowledge
+
+1. In a Power BI Desktop model design, which type of object do you create to connet multpile tables? - Relationship
+
+2. The following statement about star schema design is true. - Fact tables store accumulations of business events.
+
+3. Order of analytical query phases - Filter, Group, Summarize
