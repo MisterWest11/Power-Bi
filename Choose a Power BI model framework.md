@@ -44,3 +44,10 @@ These frameworks define how your entire Power BI model functions based on the st
 **DirectQuery Model**: All tables use the DirectQuery storage mode. This is suitable for very large datasets but may have performance limitations.
 
 **Composite Model**: A combination of Import and DirectQuery storage modes within different source groups. This offers flexibility for handling data of varying sizes and performance needs.
+
+# Determnine when to develop an import model
+
+Import models support all Power BI data sources types, including databases, files, feeds, web pages, dataflows etc. Can integrate source data. Supports all DAX and Power Query (M) functionality. Supports calculated tables and delivers the best query performance.
+
+Limitations are related to model size and data refresh.
+
