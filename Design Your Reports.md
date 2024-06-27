@@ -25,3 +25,15 @@ The report design should follow principles to effectively communicate data:
   * Contrast - Use contrasting colors, fonts, or lines to emphasize important objects and direct attention.
 
   * Repetition - Use consistent design elements for related objects to create association and strengthen layout.
+
+# Design visually appealing reports
+
+ * Space - Use margins and spacing between objects to avoid clutter and improve readability.
+
+ * Size - Set an appropriate page size and size visual based on importance.
+
+ * Alignment - Align visuals and sections for a balanced and organized look.
+
+ * Color - Use a limited color palette with soft base colours and bolder colours for highlighting exceptions.
+
+ * Consistency - Maintain a consistent formatting throughout the report using a report theme.
